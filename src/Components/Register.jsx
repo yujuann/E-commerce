@@ -24,13 +24,13 @@ function Register() {
               id="phone"
               aria-describedby="phone"
             />
-            <label for="exampleInputEmail1" className="form-label">
+            <label for="InputEmail" className="form-label">
               Email 주소
             </label>
             <input
               type="email"
               className="form-control"
-              id="exampleInputEmail1"
+              id="Input_email"
               aria-describedby="emailHelp"
             />
             <div id="emailHelp" className="form-text">
@@ -38,31 +38,31 @@ function Register() {
             </div>
           </div>
           <div className="mb-3">
-            <label for="exampleInputPassword1" className="form-label">
+            <label for="InputPassword" className="form-label">
               비밀번호
             </label>
             <input
               type="password"
               className="form-control mb-3"
-              id="exampleInputPassword1"
+              id="Password"
             />
-            <label for="exampleConfirmtPassword1" className="form-label">
+            <label for="Check_Password" className="form-label">
               비밀번호 확인하기
             </label>
             <input
               type="confirm-password"
               className="form-control"
-              id="exampleConfirm    Password1"
+              id="Check_input_password"
             />
           </div>
           <div className="mb-3 form-check">
             <input
               type="checkbox"
               className="form-check-input"
-              id="exampleCheck1"
+              id="Check"
               checked
             />
-            <label className="form-check-label" for="exampleCheck1">
+            <label className="form-check-label" for="Register_Login">
               로그인 등록하기
             </label>
           </div>

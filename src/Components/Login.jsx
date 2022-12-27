@@ -5,13 +5,13 @@ export default function Login() {
     <div className="container">
       <form className="login-form">
         <div className="mb-3">
-          <label for="exampleInputEmail1" className="form-label">
+          <label for="InputEmail" className="form-label">
             Email address
           </label>
           <input
             type="email"
             className="form-control"
-            id="exampleInputEmail1"
+            id="Input_email"
             aria-describedby="emailHelp"
             placeholder="@gmail.com"
           />
@@ -20,23 +20,19 @@ export default function Login() {
           </div>
         </div>
         <div className="mb-3">
-          <label for="exampleInputPassword1" className="form-label">
+          <label for="InputPassword" className="form-label">
             Password
           </label>
-          <input
-            type="password"
-            className="form-control"
-            id="exampleInputPassword1"
-          />
+          <input type="password" className="form-control" id="InputPassword" />
         </div>
         <div className="mb-3 form-check">
           <input
             type="checkbox"
             className="form-check-input"
-            id="exampleCheck1"
+            id="Check"
             checked
           />
-          <label className="form-check-label" for="exampleCheck1">
+          <label className="form-check-label" for="Check_remember">
             나를 기억해줘
           </label>
         </div>
