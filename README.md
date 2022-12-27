@@ -3,7 +3,7 @@
 기간: 2022.12.23-27
 
 
-컴포넌트 : Fakestore API 를 가져와 상품 product image , title , price 값을 불러왔습니다.
+컴포넌트 : Fakestore API  fetch로 가져와 상품 product image , title , price 값을 불러왔습니다.
 
 컴포넌트 Home,NavBar ,로그인페이지 , 등록 페이지, 상품 , 상품페이지 를 생성했습니다.
 </br>
