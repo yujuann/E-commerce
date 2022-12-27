@@ -13,9 +13,17 @@ Reducer 현재 상태와 액션 객체 를 파라미터로 받아와서 새로�
 handleCart라는 ADDITEM , DELITEM 를 담아 냈습니다.</br>
 combineReducers 를 사용하여 여러 리듀서를 단일 리듀서로 결합는 라이브러리를 사용해 한곳에 담아냈습니다.</br>
   
+###영상
+
+![e-commerce](https://user-images.githubusercontent.com/103945773/209662966-fcc132e5-72dd-47f4-aafd-c1b5d57c3029.gif)
 
 
 ### 이미지
+<img width="1361" alt="image" src="https://user-images.githubusercontent.com/103945773/209661307-d5a2ea9a-1bb3-4077-9a7a-357b6ecd4892.png"></br>
+<img width="1134" alt="image" src="https://user-images.githubusercontent.com/103945773/209661366-ed3952d8-0529-4950-97ac-86e8b2bd96f8.png">
+<img width="1172" alt="image" src="https://user-images.githubusercontent.com/103945773/209661434-6914a547-4446-442f-9539-6f955d30353d.png">
+
+<img width="1485" alt="image" src="https://user-images.githubusercontent.com/103945773/209661512-4e0b6f40-4cb2-4a21-b4b9-1b72dde30bb4.png">
 
 
 
