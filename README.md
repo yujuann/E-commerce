@@ -1,11 +1,13 @@
 # E-commerce web site 
 
 기간: 2022.12.23-27
+사이트: https://e-commerce-c3777.web.app
 
 
 컴포넌트 : Fakestore API  fetch로 가져와 상품 product image , title , price 값을 불러왔습니다.
 
 컴포넌트 Home,NavBar ,로그인페이지 , 등록 페이지, 상품 , 상품페이지 를 생성했습니다.
+
 </br>
 ### 기능
 Redux 상태 라이브러리를 사용하여  React-Redux Provider 컴포넌트 사용해 리액트 project 에 Store.js props로 연동했습니다. </br>
