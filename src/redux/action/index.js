@@ -1,4 +1,4 @@
-import Product from "../../Components/Product";
+import product from "../../Components/Product";
 // Add item to cart
 export const addCart = (product) => {
   return {
