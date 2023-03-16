@@ -15,10 +15,11 @@ export default function Home() {
         />
         <div className="card-img-overlay d-flex flex-column justify-content-center">
           <div className="container">
-            <h5 className="card-title display-3 mb-0">
-              New Season 겨울 신상품
-            </h5>
-            <p className="card-text lead fs-2">Check Out All The Trends</p>
+            <h5 className="card-title display-3 mb-0">New Season 신상품</h5>
+            <p className="card-text lead fs-2">
+              {" "}
+              Mardi ou Samdi All The Trends
+            </p>
           </div>
         </div>
       </div>
